@@ -7,7 +7,7 @@ Frontend development student at Noroff.
 Aspiring frontend developer with a passion for design and creativity. Currently learning and exploring the world of HTML, CSS, and JavaScript. When I am not coding I like to make music, play video games or hang out with friends.
 
 * 🌍  I'm based in Oslo
-* 🖥️  See my portfolio at [here](http://https://jakob-tidemand.netlify.app)
+* 🖥️  See my portfolio at [here](https://jakob-tidemand.netlify.app)
 * ✉️  You can contact me at [jakobtidemand92@gmail.com](mailto:jakobtidemand92@gmail.com)
 
 ### Skills
